@@ -1,0 +1,15 @@
+initial-command = fish
+window-padding-x = 0
+window-padding-y = 0
+window-decoration = false
+clipboard-read = allow
+clipboard-write = allow
+copy-on-select = true
+desktop-notifications = true
+font-family = Space Mono
+cursor-style = block_hollow
+mouse-hide-while-typing = true
+theme = catppuccin-latte
+
+# === === === ===
+
